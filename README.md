@@ -10,8 +10,8 @@ celular: 3125337722
 
 
 
-Desarrollador 
--> Ricardo  Cruz  Murcia 
+-> Desarrollador 
+Ricardo  Cruz  Murcia 
 email: richard.cruz.m@gmail.com
 celular: 3125331331
 
