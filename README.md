@@ -20,3 +20,8 @@ celular: 3125331331
 Edisson Andres Taborda Reyes
 email: edkiel9991@gmail.com
 celular: 3193389989
+
+-> Desarrollador 
+William Andres Linares Ulloa
+email: wlinares@gmx.com
+celular: 3024971571
