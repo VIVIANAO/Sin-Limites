@@ -9,7 +9,6 @@ email: miguelgomez2710@gmail.com
 celular: 3125337722
 
 
-
 -> Desarrollador 
 Ricardo  Cruz  Murcia 
 email: richard.cruz.m@gmail.com
@@ -21,7 +20,14 @@ Edisson Andres Taborda Reyes
 email: edkiel9991@gmail.com
 celular: 3193389989
 
+
 -> Desarrollador 
 William Andres Linares Ulloa
 email: wlinares@gmx.com
 celular: 3024971571
+
+
+-> Desarrollador 
+Viviana Andrea Osorio Rios
+email: contadoraviviana@hotmail.com
+celular: 3105338784
