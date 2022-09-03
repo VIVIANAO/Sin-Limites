@@ -31,3 +31,5 @@ celular: 3024971571
 Viviana Andrea Osorio Rios
 email: contadoraviviana@hotmail.com
 celular: 3105338784
+
+Finalizacion del Sprint 1.
